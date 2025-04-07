@@ -8,7 +8,7 @@ public class Test {
         Gamer g1 = new Gamer("Zlatin", "Undead", 28, 74, 52, 23, 66);
         Gamer g2 = new Gamer("Savina", "Elf", 23, 27, 77, 64, 91);
         Gamer g3 = new Gamer("Jivko", "Undead", 30, 43, 53, 23, 57);
-        Gamer g4 = new Gamer("Petar", "Elf", 21, 52, 83, 63, 102);
+        Gamer g4 = new Gamer("Petar", "Elf", 11, 52, 83, 63, 102);
 
         guild.addGamer(g2);
         guild2.addGamer(g1);
