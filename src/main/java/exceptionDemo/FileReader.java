@@ -1,4 +1,4 @@
-package exceptionsDemo;
+package exceptionDemo;
 
 import java.io.*;
 
